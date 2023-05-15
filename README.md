@@ -126,7 +126,7 @@ np.mean(predict(res.x,x)==y
 
 
 ## Output:
-
+# Value of given data set
 ![output](./a.png)
 # Array Value of x
 ![output](./b.png)
